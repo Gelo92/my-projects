@@ -1,0 +1,1 @@
+This code provides a class WordFrequency Analyzer that can analyze the frequency of word in a given text. The class manintains a dictionary of word frequencies, processes each word, and allows you to retrieve the top n most frequent words. The helper function analyze_text handles text processing and an example usage section demonstrates how the system works.
